@@ -5,6 +5,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 from collections import defaultdict
 
 from natsort import natsorted
@@ -82,9 +83,14 @@ def main():
 
     # print(json.dumps(sections, indent=4))
 
-    subprocess.run(["quarto", "render", "--to", "html"])
-    subprocess.run(["quarto", "render", "--no-clean", "--to", "pdf"])
-    subprocess.run(["quarto", "render", "--no-clean", "--to", "docx"])
+    if len(sys.argv) > 1 and "html" in sys.argv or "pdf" in sys.argv or "docx" in sys.argv:
+        subprocess.run(["quarto", "render", "--to", sys.argv[1]])
+    else:
+        subprocess.run(["quarto", "render", "--to", "html"])
+        subprocess.run(["quarto", "render", "--no-clean", "--to", "pdf"])
+        subprocess.run(["quarto", "render", "--no-clean", "--to", "docx"])
+    # Make permissions generic so that builds can work outside Docker
+    subprocess.run(["chmod", "-R", "agu+w", "_book", ".quarto"])
 
 
 if __name__ == "__main__":
