@@ -25,6 +25,10 @@ book:
 
 format:
   html:
+    number-depth: 3
+    toc: true
+    toc-depth: 4
+    toc-expand: 4
     theme:
       - cosmo
       - brand
