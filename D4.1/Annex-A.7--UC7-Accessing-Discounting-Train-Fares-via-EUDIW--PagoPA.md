@@ -1,4 +1,4 @@
-## UC 7: Accessing Discounting Train Fares via EUDIW (PagoPA)
+## UC 7: Accessing Discounting Train Fares via EUDIW
 
 ### Objective
 Let EU citizens access transport reduced fares securely and without manual input
