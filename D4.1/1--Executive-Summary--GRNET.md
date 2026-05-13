@@ -42,7 +42,7 @@ Cross-border operation is a "master" requirement for APTITUDE and for WP4 in par
 
 The structure of the Deliverable is as follows:
 
-Chapter 2 introduces this deliverable and its context within the APTITUDE project. Chapter 3 describes the methodology used during the stock-taking phase. Chapter 4 presents the baseline analysis of current processes and pain points. Chapter 5 covers the legal and regulatory frameworks. Chapter 6 describes the common technical foundations shared across all use cases. Chapter 7 maps the ecosystem actors and their roles. Chapter 8, which is the core of the deliverable, presents the three scenario overviews and the 11 individual use case specifications, each authored by its respective UC leads. Chapter 9 discusses challenges, risks, and open questions. Chapter 10 concludes with a summary and the roadmap towards D4.2 and D4.3.
+Chapter 2 introduces this deliverable and its context within the APTITUDE project. Chapter 3 describes the methodology used during the stock-taking phase. Chapter 4, which is the core of the deliverable, presents the three scenario overviews and the 11 individual use case specifications, each authored by its respective UC leads. Chapter 5 presents the baseline analysis of current processes and pain points. Chapter 6 covers the legal and regulatory frameworks. Chapter 7 describes the common technical foundations shared across all use cases. Chapter 8 discusses challenges, risks, and open questions. Chapter 9 concludes with a summary and the roadmap towards D4.2 and D4.3.
 
 Detailed use case specification sheets, the partner list, a glossary, and the full reference list are provided in the Annexes.
 
