@@ -1,4 +1,4 @@
-## UC 6: European Student Experience/Student Access via EUDI Wallet (iDAKTO-PagoPA)
+## UC 6: European Student Experience/Student Access via EUDI Wallet
 
 ### Objective
 Allow EU student to use a single credential to access services and benefit with a single credential. For example, they can have reduced fares in buses or in museum thanks to their specific "Student Status".
