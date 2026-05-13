@@ -1,4 +1,4 @@
-## UC 4: Streamlined Travel Experience (FastID)
+## UC 4: Streamlined Travel Experience
 
 #### UC Title
 Streamlined Travel Experience for Visitors and Employees
