@@ -1,4 +1,4 @@
-## UC 9: Biometric Profile - Carrier Held Biometrics - for Seamless Airport Travel (IN Groupe)
+## UC 9: Biometric Profile - Carrier Held Biometrics - for Seamless Airport Travel
 
 ### Use Case summary
 The Biometric Profile use case enables travellers to create and use a secure digital biometric identity for an end-to-end, contactless airport experience, from luggage drop to boarding.
