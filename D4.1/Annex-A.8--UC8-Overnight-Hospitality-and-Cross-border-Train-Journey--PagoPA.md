@@ -1,4 +1,4 @@
-## UC 8: Overnight Hospitality & Cross-border Train Journey (PagoPA)
+## UC 8: Overnight Hospitality & Cross-border Train Journey
 
 ### Objective
 Allow EU citizens to present their identity securely and without manual input
