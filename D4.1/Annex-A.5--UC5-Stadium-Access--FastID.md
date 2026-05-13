@@ -1,4 +1,4 @@
-## UC 5: Stadium Access (FastID)
+## UC 5: Stadium Access
 
 #### UC Title
 Stadium Access
